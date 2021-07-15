@@ -1,0 +1,14 @@
+﻿
+.ActivoSpan {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #5cb85c;
+}
+
+.InactivoSpan {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #ff0000;
+}

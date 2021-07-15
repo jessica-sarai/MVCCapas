@@ -1,0 +1,15 @@
+C:\Users\DOTNET3\Documents\Desarrollo.Net\MVC\MVCCapas\Negocio\bin\Debug\Negocio.dll
+C:\Users\DOTNET3\Documents\Desarrollo.Net\MVC\MVCCapas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\DOTNET3\Documents\Desarrollo.Net\MVC\MVCCapas\Negocio\bin\Debug\Datos.dll
+C:\Users\DOTNET3\Documents\Desarrollo.Net\MVC\MVCCapas\Negocio\bin\Debug\Entidades.dll
+C:\Users\DOTNET3\Documents\Desarrollo.Net\MVC\MVCCapas\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\DOTNET3\Documents\Desarrollo.Net\MVC\MVCCapas\Negocio\bin\Debug\Datos.pdb
+C:\Users\DOTNET3\Documents\Desarrollo.Net\MVC\MVCCapas\Negocio\bin\Debug\Datos.dll.config
+C:\Users\DOTNET3\Documents\Desarrollo.Net\MVC\MVCCapas\Negocio\bin\Debug\Entidades.pdb
+C:\Users\DOTNET3\Documents\Desarrollo.Net\MVC\MVCCapas\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\DOTNET3\Documents\Desarrollo.Net\MVC\MVCCapas\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\DOTNET3\Documents\Desarrollo.Net\MVC\MVCCapas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET3\Documents\Desarrollo.Net\MVC\MVCCapas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\DOTNET3\Documents\Desarrollo.Net\MVC\MVCCapas\Negocio\obj\Debug\Negocio.dll
+C:\Users\DOTNET3\Documents\Desarrollo.Net\MVC\MVCCapas\Negocio\obj\Debug\Negocio.pdb
+C:\Users\DOTNET3\Documents\Desarrollo.Net\MVC\MVCCapas\Negocio\bin\Debug\Entidades.dll.config

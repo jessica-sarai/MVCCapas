@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="691ecbe4-f7b5-4342-96cb-06253c8ff6b3" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:51950/SWCFAlumno.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SWCFAlumno.xsd" MetadataType="Schema" ID="c63da4de-e022-4022-9736-99f2f0d8cc86" SourceId="1" SourceUrl="http://localhost:51950/SWCFAlumno.svc?xsd=xsd0" />
+    <MetadataFile FileName="SWCFAlumno1.xsd" MetadataType="Schema" ID="db1212a4-63ae-42c9-ae29-506f05edea41" SourceId="1" SourceUrl="http://localhost:51950/SWCFAlumno.svc?xsd=xsd1" />
+    <MetadataFile FileName="SWCFAlumno2.xsd" MetadataType="Schema" ID="be062c3d-ebbb-4d32-ac98-35d127f0fafd" SourceId="1" SourceUrl="http://localhost:51950/SWCFAlumno.svc?xsd=xsd2" />
+    <MetadataFile FileName="SWCFAlumno.disco" MetadataType="Disco" ID="a8d45836-7eff-4e9e-8c9e-15871df99d30" SourceId="1" SourceUrl="http://localhost:51950/SWCFAlumno.svc?disco" />
+    <MetadataFile FileName="SWCFAlumno.wsdl" MetadataType="Wsdl" ID="aaa0c266-e40f-4c95-97cf-a633f1db044e" SourceId="1" SourceUrl="http://localhost:51950/SWCFAlumno.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
